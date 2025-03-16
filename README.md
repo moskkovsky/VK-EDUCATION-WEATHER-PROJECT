@@ -1,4 +1,4 @@
-# ![icons8-vk](https://github.com/user-attachments/assets/1fe59d6d-90d7-4dde-948f-8b912691e783) VK EDUCATION
+# ![vk (1)](https://github.com/user-attachments/assets/bfad2281-27fa-434d-bd1c-62d19eb2ce0c) VK EDUCATION
 ## Задачи
 * Создать репозиторий и сделать первый коммит
 * Написать первый тест в стиле "assertTrue(true)"
