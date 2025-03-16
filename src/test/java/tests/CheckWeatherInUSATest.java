@@ -5,7 +5,7 @@ import org.junit.jupiter.api.DisplayName;
 import static constants.Values.*;
 import static org.junit.jupiter.api.Assertions.*;
 
-public class CheckWeatherInSanFrantzTest {
+public class CheckWeatherInUSATest {
 
     @Test
     @DisplayName("Погода в Сан-Франциско должна быть 12 градусов")
