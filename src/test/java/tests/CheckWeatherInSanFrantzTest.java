@@ -21,7 +21,7 @@ public class CheckWeatherInSanFrantzTest {
 
     @Test
     @DisplayName("Сравнение погоды в Сан-Франциско и Далласе")
-    public void testWeatherInSanFrantzMoreDallas() {
+    public void testWeatherInSanFrantzLessDallas() {
         assertTrue(WEATHER_IN_SAN_FRANTZ < WEATHER_IN_DALLAS, "Ожидается, что погода в Сан-Франциско (" + WEATHER_IN_SAN_FRANTZ +
                 ") будет меньше, чем в Далласе (" + WEATHER_IN_DALLAS + ")");
     }
