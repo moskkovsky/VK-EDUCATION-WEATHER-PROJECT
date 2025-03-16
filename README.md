@@ -33,4 +33,5 @@ testWeatherInSanFrantzMoreDallas()
 3. Все актуальные и ожидаемые переменные вынес в отдельный класс **Values**
 
 ## Результат
-<img width="919" alt="result_first_homework" src="https://github.com/user-attachments/assets/265602fe-2806-4f18-97d2-16cd8e214aa9" />
+<img width="917" alt="firstHomeWork_result" src="https://github.com/user-attachments/assets/d194bd0c-01a5-41f3-9a3d-cff7b59607cc" />
+
